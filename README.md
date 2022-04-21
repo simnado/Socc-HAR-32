@@ -1,6 +1,6 @@
 # Socc-HAR-32
 
-Datasets for Action Recognition and Temporal Action Detection. Part of https://github.com/simnado/Master-Thesis
+Datasets for Action Recognition and Temporal Action Detection based on [SoccerNet v1](https://silviogiancola.github.io/SoccerNet/) and [StatsBomb Open Data](https://github.com/statsbomb/open-data). Part of https://github.com/simnado/Master-Thesis.
 
 # Datasets
 
