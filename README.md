@@ -1,6 +1,6 @@
 # Socc-HAR-32
 
-Datasets for Action Recognition and Temporal Action Detection
+Datasets for Action Recognition and Temporal Action Detection. Part of https://github.com/simnado/Master-Thesis
 
 # Datasets
 
